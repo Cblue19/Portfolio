@@ -1,7 +1,7 @@
-# Portfolio
+### Casaus Portfolio
 A collection of data visualizations from Telling Stories with Data
-Visualizing Government Debt
-Final Project
+# Visualizing Government Debt
+# Final Project
 
 ## About Me
 Hi, I'm Bri Casaus (she/her). I'm a second year student in the MSPPM flagship program at Carnegie Mellon University's Heinz College.
